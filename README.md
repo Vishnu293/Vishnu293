@@ -71,7 +71,7 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 
 ---
 
-### ♟️ [**Personal Portfolio (Chess-Themed)**](https://github.com/Vishnu293/nPortfolio)  
+### ♟️ [**Personal Portfolio (Chess-Themed)(New)**](https://github.com/Vishnu293/nPortfolio)  
 <img src="https://i.postimg.cc/Hs5c94GK/portfolio-new.png" alt="Project Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** React.js, TailwindCSS, Framer Motion  
