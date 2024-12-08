@@ -111,7 +111,7 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vishnu293&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu293&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu293&theme=radical&hide_border=true" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu293&layout=compact&theme=radical&hide_border=true" />
 </p>
 
