@@ -55,7 +55,7 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 
 ## 📚 **Featured Projects**
 
-### 🛒 [**ValueVue**](https://github.com/Vishnu293/ValueVue-Frontend)  
+### 🛒 [**ValueVue: A Dynamic & Revolutionizing Retail**](https://github.com/Vishnu293/ValueVue-Frontend)  
 <img src="https://i.postimg.cc/x1yKKkcK/Valuevue-home.png" alt="Project Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Material-UI  
