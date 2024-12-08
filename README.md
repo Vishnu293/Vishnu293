@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://your-banner-image-link-here) <!-- Replace with a high-quality banner -->
+![Banner](https://i.postimg.cc/FzmsvKVx/github-header-image.png) <!-- Replace with a high-quality banner -->
 
 # 💫 **Hi! I'm Vishnu**  
 ### *Frontend Developer | Innovator | Tech Enthusiast*
