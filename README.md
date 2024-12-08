@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://i.postimg.cc/jqGT4d15/github-header-image.png) <!-- Replace with your custom banner -->
+![Banner](https://i.postimg.cc/zBvN0L5L/github-header-image-11.png) <!-- Replace with your custom banner -->
 
 # 💫 **Hi! I'm Vishnu C**  
 ### *Frontend Developer | Innovator | Tech Enthusiast*  
