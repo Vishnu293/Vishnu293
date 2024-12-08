@@ -5,7 +5,7 @@
 # 💫 **Hi! I'm Vishnu C**  
 ### *Frontend Developer | Innovator | Tech Enthusiast*  
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Crafting+Web+Experiences;Turning+Ideas+Into+Reality;Building+Interactive+Websites)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Crafting+Web+Experiences;Turning+Ideas+Into+Reality;Building+Interactive+Websites)
 
 📍 *India-based developer passionate about creating impactful web applications.*  
 🌟 *Let’s build something amazing together!*
