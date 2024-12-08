@@ -60,19 +60,38 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 
 > **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Material-UI  
 > **Highlights:**  
-> - Location-based filtering for local retailers.  
-> - Real-time price comparison for customers.  
-> - Seller-friendly dashboard for inventory management.  
+> - **Location-based filtering** to show local retailers and products based on user coordinates.  
+> - **Dynamic real-time price comparison** for customers to ensure the lowest prices.  
+> - **Seller dashboard** for easy inventory management, allowing sellers to add, edit, and remove products.  
+> - **Interactive UI** with a smooth and intuitive user experience, built using Material-UI.  
+> - **Geo-location API integration** to enable customers to change location and see products in different areas.  
+> - **Shortest distance calculation** from customer location to the nearest shop for convenience.  
+> - **Scalable architecture** using MERN stack to support both customers and sellers.  
+> - Developed for **local retailers in India**, focusing on small-scale sellers.
 
 ---
 
 ### ♟️ [**Personal Portfolio (Chess-Themed)**](https://github.com/Vishnu293/nPortfolio)  
 <img src="https://i.postimg.cc/Hs5c94GK/portfolio-new.png" alt="Project Screenshot" width="400" height="200"/>
 
-> **Tech Stack:** React.js, TailwindCSS  
+> **Tech Stack:** React.js, TailwindCSS, Framer Motion  
 > **Highlights:**  
-> - Interactive animations inspired by chess pieces.  
-> - Transparent video integration for a unique homepage experience.  
+> - **Chess-themed images** with subtle transitions.  
+> - **Smooth section transitions** for a sleek user experience.  
+> - **Responsive design** optimized for both desktop and mobile views.  
+> - Clean and simple animations to highlight different sections on scroll with Light & Dark modes.  
+
+---
+
+### 👤 [**Personal Portfolio (Old)**](https://github.com/Vishnu293/vishnu_portfolio)  
+<img src="https://i.postimg.cc/CLyj4H2z/portfolio-old.png" alt="Project Screenshot" width="400" height="200"/>
+
+> **Tech Stack:** HTML, CSS, JavaScript  
+> **Highlights:**  
+> - **Minimalistic design** with a focus on personal projects.
+> - **Smooth section transitions** for a sleek user experience.  
+> - **Responsive layout** for desktop and mobile devices.  
+> - Classic portfolio style showcasing **essential web development skills**.  
 
 ---
 
