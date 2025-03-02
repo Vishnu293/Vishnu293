@@ -83,7 +83,7 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 
 ---
 
-### 📋 [**To-Do List App (Flask + MySQL)**](https://github.com/Vishnu293/todo_app)  
+### 📋 [**To-Do List App**](https://github.com/Vishnu293/todo_app)  
 <img src="https://i.postimg.cc/DymdJCJL/todo-app.png" alt="To-Do App Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** Flask, MySQL, SQLAlchemy, HTML, CSS, JavaScript  
