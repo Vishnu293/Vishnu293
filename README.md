@@ -83,6 +83,18 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 
 ---
 
+### 📋 [**To-Do List App (Flask + MySQL)**](https://github.com/Vishnu293/todo_app)  
+<img src="https://i.postimg.cc/DymdJCJL/todo-app.png" alt="To-Do App Screenshot" width="400" height="200"/>
+
+> **Tech Stack:** Flask, MySQL, SQLAlchemy, HTML, CSS, JavaScript  
+> **Highlights:**  
+> - **User Authentication:** Secure login and registration system.  
+> - **CRUD Functionality:** Create, update, delete, and mark tasks as complete.  
+> - **Responsive Design:** Optimized for both desktop and mobile views.  
+> - **Efficient Database Handling:** Uses SQLAlchemy for seamless MySQL integration.  
+
+---
+
 ### 👤 [**Personal Portfolio (Old)**](https://github.com/Vishnu293/vishnu_portfolio)  
 <img src="https://i.postimg.cc/CLyj4H2z/portfolio-old.png" alt="Project Screenshot" width="400" height="200"/>
 
