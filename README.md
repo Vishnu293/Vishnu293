@@ -65,8 +65,9 @@ Alongside internships in Python, MathWorks, and Web Development, I actively work
 > - Created dynamic pages with smooth routing and UI transitions.  
 > - SEO-optimized and performance-focused (90+ Lighthouse score).  
 > - Delivered to an international client via Fiverr *(details under NDA)*.  
-> *Note: Source code and live demo are not publicly available due to client confidentiality and security reasons.*
 > - I regularly take freelance projects to help businesses build modern, responsive web apps.
+
+*🔒 Note: Source code and live demo are not publicly available due to client confidentiality.*
 
 ---
 
