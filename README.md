@@ -3,7 +3,7 @@
 ![Banner](https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543777/github-header-image_igtmvc.png)
 
 # 💫 **Hi! I'm Vishnu C**  
-### *Frontend Developer | Innovator | Tech Enthusiast*  
+### *Frontend Developer | Innovator | Tech Enthusiast | Freelance Web Developer*
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Crafting+Web+Experiences;Turning+Ideas+Into+Reality;Building+Interactive+Websites)
 
@@ -16,12 +16,14 @@
 
 ## 🔥 **About Me**
 > *"Code is like humor. When you have to explain it, it’s bad."*
- 
-I’m a **frontend developer** with a strong focus on **aesthetics** and **functionality**. With a background in **CSIT**, I aim to merge creativity with technology to deliver immersive user experiences.
+
+I’m a **frontend developer** passionate about blending **aesthetics** with **functionality** to create immersive user experiences. With a background in **CSIT** and a track record of academic excellence (CGPA 9.48), I bring creativity and technical skills to every project.
+
+Alongside internships in Python, MathWorks, and Web Development, I actively work as a **freelance developer** on platforms like Fiverr, delivering custom business web applications to international clients with a strong focus on responsive design, accessibility, and performance.
 
 ### Highlights:  
 - 🎓 **Academic Excellence:** Topped CSIT department with a CGPA of 9.48.  
-- 💻 **Experienced Developer:** Completed internships in Python, MathWorks, and Web Development.  
+- 💻 **Experienced Developer & Freelancer:** Completed internships and freelance projects, successfully collaborating with clients globally.  
 - ♟️ **Creative Mind:** Designed a **chess-themed portfolio** merging art and tech.
 
 ---
@@ -53,59 +55,72 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 
 ---
 
-## 📚 **Featured Projects**
+## ✨ **Featured Projects**
 
-### 🛒 [**ValueVue: A Dynamic & Revolutionizing Retail**](https://github.com/Vishnu293/ValueVue-Frontend)  
+### 🛠️ Business Web App – Freelance Project (Fiverr)
+> **Client Domain:** Window Blinds & Shades Retail  
+> **Tech Stack:** Next.js, TypeScript (TSX), TailwindCSS  
+> **Key Features:**  
+> - Designed and developed a responsive, accessible frontend.  
+> - Created dynamic pages with smooth routing and UI transitions.  
+> - SEO-optimized and performance-focused (90+ Lighthouse score).  
+> - Delivered to an international client via Fiverr *(details under NDA)*.  
+> *Note: Source code and live demo are not publicly available due to client confidentiality and security reasons.*
+> - I regularly take freelance projects to help businesses build modern, responsive web apps.
+
+---
+
+### 🛒 [**ValueVue: A Dynamic & Revolutionizing Retail**](https://github.com/Vishnu293/ValueVue-Frontend)
 <img src="https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543780/Valuevue-home_brzimz.png" alt="Project Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Material-UI  
 > **Highlights:**  
-> - **Location-based filtering** to show local retailers and products based on user coordinates.  
-> - **Dynamic real-time price comparison** for customers to ensure the lowest prices.  
-> - **Seller dashboard** for easy inventory management, allowing sellers to add, edit, and remove products.  
-> - **Interactive UI** with a smooth and intuitive user experience, built using Material-UI.  
-> - **Geo-location API integration** to enable customers to change location and see products in different areas.  
-> - **Shortest distance calculation** from customer location to the nearest shop for convenience.  
-> - **Scalable architecture** using MERN stack to support both customers and sellers.  
-> - Developed for **local retailers in India**, focusing on small-scale sellers.
+> - **Location-based filtering** to show nearby retailers and inventory.  
+> - **Real-time price comparison** for lowest-price visibility.  
+> - **Seller dashboard** for easy product management.  
+> - **Geo-location API integration** for region-specific browsing.  
+> - **Distance calculation** to suggest nearest shops.  
+> - Designed for **small-scale Indian retailers** with scalable backend.
 
 ---
 
-### ♟️ [**Personal Portfolio (Chess-Themed)(New)**](https://github.com/Vishnu293/nPortfolio)  
+### ♟ [**Personal Portfolio (Chess-Themed)**](https://github.com/Vishnu293/nPortfolio)
 <img src="https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543784/portfolio-new_igtgnm.png" alt="Project Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** React.js, TailwindCSS, Framer Motion  
 > **Highlights:**  
-> - **Chess-themed images** with subtle transitions.  
-> - **Smooth section transitions** for a sleek user experience.  
-> - **Responsive design** optimized for both desktop and mobile views.  
-> - Clean and simple animations to highlight different sections on scroll with Light & Dark modes.  
+> - Chess-themed design with clean transitions and animations.  
+> - Fully responsive UI with dark and light modes.  
+> - Smooth scroll-based section animations for better UX.
 
 ---
 
-### 📋 [**To-Do List App**](https://github.com/Vishnu293/FlaskCRUDApp)  
+### 📋 [**To-Do List App**](https://github.com/Vishnu293/FlaskCRUDApp)
 <img src="https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543778/todo-app_nbpfoa.png" alt="To-Do App Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** Flask, MySQL, SQLAlchemy, HTML, CSS, JavaScript  
 > **Highlights:**  
-> - **User Authentication:** Secure login and registration system.  
-> - **CRUD Functionality:** Create, update, delete, and mark tasks as complete.  
-> - **Responsive Design:** Optimized for both desktop and mobile views.  
-> - **Efficient Database Handling:** Uses SQLAlchemy for seamless MySQL integration.  
+> - Secure login/registration system.  
+> - Full CRUD functionality for tasks.  
+> - Clean and mobile-friendly UI.  
+> - SQLAlchemy integration for database operations.
 
 ---
 
-### 👤 [**Personal Portfolio (Old)**](https://github.com/Vishnu293/vishnu_portfolio)  
+### 👤 [**Personal Portfolio (Old)**](https://github.com/Vishnu293/vishnu_portfolio)
 <img src="https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543786/portfolio-old_knf8d5.png" alt="Project Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** HTML, CSS, JavaScript  
 > **Highlights:**  
-> - **Minimalistic design** with a focus on personal projects.
-> - **Smooth section transitions** for a sleek user experience.  
-> - **Responsive layout** for desktop and mobile devices.  
-> - Classic portfolio style showcasing **essential web development skills**.  
+> - Clean layout with responsive design.  
+> - Emphasizes core frontend skills.  
+> - Simple section transitions and clear structure.
 
 ---
+
+<div align="center">
+  Thank you for viewing my projects!
+</div>
 
 <div align="center">
 
@@ -144,6 +159,9 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 </a>
 <a href="https://github.com/Vishnu293" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.fiverr.com/vishnuc293" target="_blank">
+<img src="https://img.shields.io/badge/Fiverr-%2300B50F.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
 </a>
 </p>
 
