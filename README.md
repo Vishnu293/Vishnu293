@@ -120,10 +120,6 @@ Alongside internships in Python, MathWorks, and Web Development, I actively work
 ---
 
 <div align="center">
-  Thank you for viewing my projects!
-</div>
-
-<div align="center">
 
 ## 🌟 **Achievements**
 
