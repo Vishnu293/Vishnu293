@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://i.postimg.cc/zBvN0L5L/github-header-image-11.png) <!-- Replace with your custom banner -->
+![Banner](https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543777/github-header-image_igtmvc.png)
 
 # 💫 **Hi! I'm Vishnu C**  
 ### *Frontend Developer | Innovator | Tech Enthusiast*  
@@ -56,7 +56,7 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 ## 📚 **Featured Projects**
 
 ### 🛒 [**ValueVue: A Dynamic & Revolutionizing Retail**](https://github.com/Vishnu293/ValueVue-Frontend)  
-<img src="https://i.postimg.cc/x1yKKkcK/Valuevue-home.png" alt="Project Screenshot" width="400" height="200"/>
+<img src="https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543780/Valuevue-home_brzimz.png" alt="Project Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Material-UI  
 > **Highlights:**  
@@ -72,7 +72,7 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 ---
 
 ### ♟️ [**Personal Portfolio (Chess-Themed)(New)**](https://github.com/Vishnu293/nPortfolio)  
-<img src="https://i.postimg.cc/Hs5c94GK/portfolio-new.png" alt="Project Screenshot" width="400" height="200"/>
+<img src="https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543784/portfolio-new_igtgnm.png" alt="Project Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** React.js, TailwindCSS, Framer Motion  
 > **Highlights:**  
@@ -84,7 +84,7 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 ---
 
 ### 📋 [**To-Do List App**](https://github.com/Vishnu293/FlaskCRUDApp)  
-<img src="https://i.postimg.cc/DymdJCJL/todo-app.png" alt="To-Do App Screenshot" width="400" height="200"/>
+<img src="https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543778/todo-app_nbpfoa.png" alt="To-Do App Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** Flask, MySQL, SQLAlchemy, HTML, CSS, JavaScript  
 > **Highlights:**  
@@ -96,7 +96,7 @@ I’m a **frontend developer** with a strong focus on **aesthetics** and **funct
 ---
 
 ### 👤 [**Personal Portfolio (Old)**](https://github.com/Vishnu293/vishnu_portfolio)  
-<img src="https://i.postimg.cc/CLyj4H2z/portfolio-old.png" alt="Project Screenshot" width="400" height="200"/>
+<img src="https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543786/portfolio-old_knf8d5.png" alt="Project Screenshot" width="400" height="200"/>
 
 > **Tech Stack:** HTML, CSS, JavaScript  
 > **Highlights:**  
