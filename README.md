@@ -59,12 +59,12 @@ Alongside internships in Python, MathWorks, and Web Development, I actively work
 
 ### 🛠️ Business Web App – Freelance Project (Fiverr)
 > **Client Domain:** Window Blinds & Shades Retail  
-> **Tech Stack:** Next.js, TypeScript (TSX), TailwindCSS  
-> **Key Features:**  
-> - Designed and developed a responsive, accessible frontend.  
-> - Created dynamic pages with smooth routing and UI transitions.  
-> - SEO-optimized and performance-focused (90+ Lighthouse score).  
-> - Delivered to an international client via Fiverr *(details under NDA)*.  
+> **Tech Stack:** Next.js, TypeScript (TSX), Tailwind CSS  
+> **Key Highlights:**  
+> - Designed and developed a fully responsive and accessible frontend.  
+> - Implemented dynamic routing and smooth UI transitions.  
+> - SEO-optimized and performance-tuned (90+ Lighthouse score).  
+> - Successfully delivered to an international client via Fiverr *(under NDA)*.  
 > - I regularly take freelance projects to help businesses build modern, responsive web apps.
 
 *🔒 Note: Source code and live demo are not publicly available due to client confidentiality.*
@@ -88,7 +88,7 @@ Alongside internships in Python, MathWorks, and Web Development, I actively work
 ### ♟ [**Personal Portfolio (Chess-Themed)**](https://github.com/Vishnu293/nPortfolio)
 <img src="https://res.cloudinary.com/dqdgle0dz/image/upload/v1748543784/portfolio-new_igtgnm.png" alt="Project Screenshot" width="400" height="200"/>
 
-> **Tech Stack:** React.js, TailwindCSS, Framer Motion  
+> **Tech Stack:** React.js, Tailwind CSS, Framer Motion  
 > **Highlights:**  
 > - Chess-themed design with clean transitions and animations.  
 > - Fully responsive UI with dark and light modes.  
